@@ -5,8 +5,11 @@
 ---
 
 + [Data privacy statement for website visitors](#chapter-1)
-+ [Data Privacy Statement for Contributions](#chapter-2)
++ [Data Privacy statement for contributions](#chapter-2)
 + [Data protection notice for press accreditation](#chapter-3)
++ [Data privacy statement for the TMT33 App](#chapter-4)
+
+---
 
 ##@{id="chapter-1" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Data privacy statement for website visitors
 
@@ -22,6 +25,8 @@ You can contradict to the storage and evaluation of this data by Matomo at any t
 Alternatively, most modern browsers have a "Do Not Track" option that can be used to instruct websites not to track your activity. Matomo respects this option.
 
 {trackingoptout}
+
+---
 
 ##@{id="chapter-2" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Data Privacy Statement for Contributions
 
@@ -47,6 +52,8 @@ Excerpt from our T&C, Section 7 Data protection:
 4. The user is entitled to request information on their stored information and to request correction, blocking and—after the event has ended—deletion thereof. Furthermore, the user is entitled to request information on the status of their stored data by e-mail at: programm@tonmeisterverband.org. Insofar as there is a statutory or contractual obligation to retain the data, said data will be blocked instead of deleted. 
 
 5. The user's personal information will be kept confidential and in particular not disclosed for the purpose of advertising or market and opinion research.
+
+---
 
 ##@{id="chapter-3" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Data protection notice for press accreditation 
 
@@ -75,3 +82,43 @@ Stored personal data will be deleted as soon as they are no longer required for 
 ### 6. Your rights
  According to Art. 12-21 GDPR, you have the right to request information about your personal data at any time, the right to correction, deletion and portability of the data as well as restriction of processing. Insofar as the processing is based on legitimate interests, you have the right to object to the processing of personal data at any time for reasons that arise from your particular situation. 
 If you have given us your consent, you can revoke it at any time with effect for the future. If you are of the opinion that the data processing violates data protection law, you have the right to lodge a complaint with the competent supervisory authority (Art. 77 GDPR in conjunction with Section 19 of the Federal Data Protection Act). To exercise your rights, you can contact the person responsible by post or email (for contact details, see Section 1 above).
+
+---
+
+ ##@{id="chapter-4" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Data Privacy Statement TMT33 App
+
+This Privacy Policy applies to the TMT33 app (the "Application"), created by Dennis Doerrich ("Service Provider") as a free service. By using the Application, you agree to the terms outlined below.
+
+### 1. Information Collection and Use
+The Application collects limited information, such as sessions, exhibitors, and speakers added to your favorites. It may also require your email for account-related features. This data is retained as described below and used only for the functionality of the Application.
+
+The Application does not collect your location data.
+
+### 2. Third Party Access
+The Application utilizes third-party services for data storage and processing, including
++ [Google Services](https://www.google.com/policies/privacy/)
++ [Firebase](https://firebase.google.com/support/privacy/)
+
+These services may process data as part of the Service Provider's operations.
+
+All aggregations and analyses are conducted internally by the Service Provider using secure tools. Aggregated or anonymized data may be used to improve the Application but is not shared with external parties.
+
+### 3. Opt-Out Rights
+You can stop all collection of information by the Application by using the app anonymously without logging in.
+
+### 4. Data Retention Policy
+Your data is retained as long as you use the Application and for a reasonable time afterward. To request data deletion, please fill out [account deletion form](https://docs.google.com/forms/d/e/1FAIpQLSe6G7-q1P4bU1THqxxkdvkY-VJ5R_7ukTGVlePgSpvLT9uPtQ/viewform?usp=header).
+
+### 5. Children
+The Application is safe for all users but does not knowingly collect personal data from children under 13. If you believe a child has provided personal information, contact the Service Provider at dennis.h.doerrich@gmail.com for deletion.
+
+### 6. Security
+The Service Provider safeguards your information with physical, electronic, and procedural measures.
+
+### 7. Changes
+This Privacy Policy may be updated periodically. Changes will be posted on this page, and continued use of the Application implies consent to updates.
+
+**Effective Date: 2024-12-23**
+
+### 8. Contact
+For privacy-related questions, contact the Service Provider at dennis.h.doerrich@gmail.com.

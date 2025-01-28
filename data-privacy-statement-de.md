@@ -2,11 +2,14 @@
 + **für den VDT (Verband Deutscher Tonmeister e. V.):** Frank A. Keller, [Glöckner Keller Rechtsanwälte, Nürnberg](https://anwaelte-gkr.de/kontakt/)
 + **für das Bildungswerk des Verbandes Deutscher Tonmeister GmbH :** post@biw-vdt.de
 
---- 
+---
 
 + [Datenschutzerklärung für Webseitenbesucher](#chapter-1)
 + [Datenschutzerklärung für die Beitragseinreichung](#chapter-2)
 + [Datenschutzhinweis Presse-Akkreditierung](#chapter-3)
++ [Datenschutzerklärung TMT33 App](#chapter-4)
+
+---
 
 ##@{id="chapter-1" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutzerklärung für Webseitenbesucher
 
@@ -20,6 +23,8 @@ Sie können jederzeit der Speicherung und Auswertung dieser Daten durch Matomo w
 Alternativ verfügen die meisten modernen Browser über eine so genannte „Do Not Track“-Option, mit der sie Websites mitteilen, Ihre Nutzeraktivitäten nicht zu verfolgen. Matomo respektiert diese Option.
 
 {trackingoptout}
+
+---
 
 ##@{id="chapter-2" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutzerklärung für die Beitragseinreichung
 
@@ -40,6 +45,8 @@ Auszug aus den AGB: § 7 Datenschutz
 3. Die Contribution-Seite gibt keine personenbezogenen Daten an Dritte weiter. Ausgenommen hiervon sind das Programmplanungsteam sowie andere registrierte Nutzer, die ebenfalls einen Beitrag zur Veranstaltungsplanung leisten. In diesen Fällen beschränkt sich der Umfang der übermittelten Daten jedoch auf das erforderliche Minimum.
 4. Der Nutzer hat ein Recht auf Auskunft sowie ein Recht auf Berichtigung, Sperrung und – nach Abschluss der Veranstaltung – auf Löschung seiner gespeicherten Daten. Er hat ferner das Recht, jederzeit Auskunft über den Stand seiner gespeicherten Daten zu verlangen unter der E-Mail: programm@tonmeisterverband.org. Sofern einer Löschung gesetzliche oder vertragliche Aufbewahrungspflichten entgegenstehen, werden die Daten gesperrt.
 5. Die personenbezogenen Daten des Nutzers werden selbstverständlich vertraulich behandelt, insbesondere nicht zum Zwecke der Werbung oder Markt- und Meinungsforschung weitergegeben.
+
+---
 
 ##@{id="chapter-3" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutzhinweis Presse-Akkreditierung
 
@@ -73,3 +80,44 @@ Gespeicherte personenbezogene Daten werden gelöscht, sobald sie für die Erreic
 
 ### 6. Ihre Rechte
 Sie haben gemäß Art. 12-21 DS-GVO das Recht, jederzeit Auskunft über die personenbezogenen Daten zu verlangen, das Recht auf Berichtigung, Löschung und Übertragbarkeit der Daten sowie auf Einschränkung der Verarbeitung. Soweit die Verarbeitung auf berechtigten Interessen beruht, haben Sie das Recht aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der personenbezogenen Daten Widerspruch einzulegen. Wenn Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen. Sofern Sie der Meinung sind, dass die Datenverarbeitung gegen das Datenschutzrecht verstößt, steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu (Art. 77 DS-GVO i.V.m. § 19 Bundesdatenschutzgesetz). Zur Wahrnehmung Ihrer Rechte können Sie sich per Post oder E-Mail an den Verantwortlichen wenden (Kontaktdaten siehe Abschnitt 1 oben).
+
+---
+
+ ##@{id="chapter-4" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutzerklärung TMT33 App
+
+Diese Datenschutzerklärung gilt für die TMT33-App (die „Anwendung“), die von Dennis Doerrich („Dienstanbieter“) als kostenloser Dienst erstellt wurde. Durch die Nutzung der Anwendung stimmen Sie den unten aufgeführten Bedingungen zu.
+
+### 1. Erhebung und Nutzung von Informationen
+Die Anwendung sammelt begrenzte Informationen, wie Sessions, Aussteller und Referenten, die zu Ihren Favoriten hinzugefügt wurden. Es kann auch erforderlich sein, dass Sie Ihre E-Mail-Adresse für kontobezogene Funktionen angeben. Diese Daten werden wie unten beschrieben gespeichert und ausschließlich für die Funktionalität der Anwendung verwendet.
+
+Die Anwendung sammelt keine Standortdaten Ihres Geräts.
+
+### 2. Third Party Zugang
+Die Anwendung nutzt Drittanbieterdienste für Datenspeicherung und -verarbeitung, einschließlich:
++ [Google Services](https://www.google.com/policies/privacy/)
++ [Firebase](https://firebase.google.com/support/privacy/)
+
+Diese Dienste können Daten im Rahmen der Aktivitäten des Dienstanbieters verarbeiten.
+
+Alle Aggregationen und Analysen werden intern vom Dienstanbieter mit sicheren Tools durchgeführt. Aggregierte oder anonymisierte Daten können zur Verbesserung der Anwendung verwendet werden, jedoch nicht an externe Parteien weitergegeben.
+
+### 3. Widerspruchsrecht
+Sie können die Erfassung von Informationen durch die Anwendung vollständig stoppen, indem Sie die App anonym und ohne Anmeldung verwenden.
+
+### 4. Datenaufbewahrungsrichtlinie
+
+Ihre Daten werden so lange gespeichert, wie Sie die Anwendung nutzen, und für eine angemessene Zeit danach. Um die Löschung Ihrer Daten zu beantragen, füllen Sie bitte das [Formular](https://docs.google.com/forms/d/e/1FAIpQLSe6G7-q1P4bU1THqxxkdvkY-VJ5R_7ukTGVlePgSpvLT9uPtQ/viewform?usp=header) zur Kontolöschung aus.
+
+### 5. Kinder
+Die Anwendung ist sicher für alle Benutzer, sammelt jedoch keine personenbezogenen Daten von Kindern unter 13 Jahren. Wenn Sie glauben, dass ein Kind persönliche Informationen angegeben hat, kontaktieren Sie bitte den Dienstanbieter unter dennis.h.doerrich@gmail.com, um die Löschung zu veranlassen.
+
+### 6. Sicherheit
+Der Dienstanbieter schützt Ihre Informationen durch physische, elektronische und verfahrensbezogene Maßnahmen.
+
+### 7. Änderungen
+Diese Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden. Änderungen werden auf dieser Seite veröffentlicht, und die fortgesetzte Nutzung der Anwendung gilt als Zustimmung zu den Aktualisierungen.
+
+**Gültigkeitsdatum: 23.12.2024**
+
+### 8. Kontakt
+Bei Fragen zum Datenschutz wenden Sie sich bitte an den Dienstanbieter unter dennis.h.doerrich@gmail.com.
