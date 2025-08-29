@@ -16,7 +16,7 @@
 *April 2020 Version 1.0*
 
 ### Web analysis service Matomo
-Our website uses Matomo, an open source software for statistical analysis of user access. It is not possible to infer a specific person because your IP address is anonymized immediately after processing and before it is saved. We host Matomo ourselves. An external service provider is not involved.
+Our websites use Matomo, an open source software for statistical analysis of user access. It is not possible to infer a specific person because your IP address is anonymized immediately after processing and before it is saved. We host Matomo ourselves. An external service provider is not involved.
 
 Matomo is used for the purpose of improving the quality of our website and its content. This tells us how the website is being used and enables us to continuously optimize our offer.
 
@@ -30,28 +30,26 @@ Alternatively, most modern browsers have a "Do Not Track" option that can be use
 
 ##@{id="chapter-2" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Data Privacy Statement for Contributions
 
-*April 2020 Version 1.0*
+*August 2025 Version 1.1*
 
 You are required to accept our privacy policy to register. After you have registered, we collect the data in the content management system which feeds our event website with content. We use to organise the event. 
 Among other things, we   
-+ print some of the data (name, institution) in the program or display it online 
-+ may share some of the data (name, contribution title, e-mail address, institution, possibly also your telephone number) with other contributors for to coordinate content 
-+ may use your contact details (name, e-mail address) for feedback to your contribution and to send you material relevant to the event (program, transcript) 
-+ may share some of the data (name, institution) with the session hosts 
-+ may share your data with collaborating institutions to the extent provided to render the service.   
++ print some of the data (name, institution) in the program or display it online on publicly accessible websites and in event apps.
++ publish a short profile (CV) and/or a profile photo of the contributor, provided that this data has been entered by the contributor themselves in the submission portal.
++ may pass on some of the data (name, contribution title, email address, institution, telephone number if applicable) to other contributors for the purpose of coordinating content.
++ use your contact details (name, email address) for queries and to send event-related materials (e.g., program, conference proceedings).
++ pass on some of the data (name, institution) to the session moderators.
++ may pass on your data to cooperating institutions if this is necessary for the provision of the service.  
 
 Please also note our other data protection terms from our Terms and Conditions:   
 Excerpt from our T&C, Section 7 Data protection:   
 
-1. The database of the Contribution Website stores and processes user information in compliance with the applicable provisions of the German Data Protection Act (BDSG) and the German Telemedia Act (TMG). Personal data is only collected to enable event planning. 
-
-2. The user agrees that their personal data may be collected, processed and used to enable event planning. 
-
-3. The Contribution Website will not disclose personal data to third parties. An exception is made for the program planning team and other registered users who are also contributing to event planning. In these cases, the scope of the transmitted data is limited to the minimum required. 
-
-4. The user is entitled to request information on their stored information and to request correction, blocking and—after the event has ended—deletion thereof. Furthermore, the user is entitled to request information on the status of their stored data by e-mail at: programm@tonmeisterverband.org. Insofar as there is a statutory or contractual obligation to retain the data, said data will be blocked instead of deleted. 
-
-5. The user's personal information will be kept confidential and in particular not disclosed for the purpose of advertising or market and opinion research.
+1. User data is stored and processed in the database of the Contribution Website in compliance with the relevant provisions of the Federal Data Protection Act (BDSG) and the Telemedia Act (TMG). Personal data is requested for the purpose of event planning. Some of this data is published for the purpose of promoting and conducting the event.
+2. Users consent to their personal data being collected, processed, and used for the purpose of event planning. Users consent to their name being published on websites and in event apps if their submission has been included in the event program.
+3. Users agree that a short personal profile (CV) and/or profile photo may be published on public websites and in event apps if this data has been provided by the user in the submission portal.
+4. Apart from the aforementioned exceptions, the Contribution Website does not pass on any personal data to third parties. Exceptions to this are the program planning team, the session moderators, and other registered users who also contribute to the event planning. In these cases, however, the scope of the data transmitted is limited to the minimum necessary.
+5. The user has the right to information and the right to correction, blocking, and — after the event has ended — deletion of their stored data. They also have the right to request information about the status of their stored data at any time by sending an email to: programm@tonmeisterverband.org. If deletion is prevented by legal or contractual retention obligations, the data will be blocked.
+6. The user's personal data will be treated confidentially. In particular, it will not be passed on for advertising purposes outside the specific event or for any kind of market or opinion research.
 
 ---
 

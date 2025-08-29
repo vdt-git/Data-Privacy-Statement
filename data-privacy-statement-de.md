@@ -14,7 +14,7 @@
 ##@{id="chapter-1" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutzerklärung für Webseitenbesucher
 
 ### Webanalysedienst Matomo
-Unsere Website verwendet Matomo, eine Open-Source-Software zur statistischen Auswertung der Nutzerzugriffe. Ein Rückschluss auf eine bestimmte Person ist dabei nicht möglich, da Ihre IP-Adresse sofort nach der Verarbeitung und vor der Speicherung anonymisiert wird. Wir hosten das Matomo selbst. Ein externer Dienstleister kommt nicht zum Einsatz.
+Unsere Websites verwenden Matomo, eine Open-Source-Software zur statistischen Auswertung der Nutzerzugriffe. Ein Rückschluss auf eine bestimmte Person ist dabei nicht möglich, da Ihre IP-Adresse sofort nach der Verarbeitung und vor der Speicherung anonymisiert wird. Wir hosten das Matomo selbst. Ein externer Dienstleister kommt nicht zum Einsatz.
 
 Die Verwendung von Matomo erfolgt zu dem Zweck, die Qualität unserer Website und ihre Inhalte zu verbessern. Dadurch erfahren wir, wie die Website genutzt wird und können so unser Angebot stetig optimieren.
 
@@ -28,23 +28,25 @@ Alternativ verfügen die meisten modernen Browser über eine so genannte „Do N
 
 ##@{id="chapter-2" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutzerklärung für die Beitragseinreichung
 
-*April 2020, Version 1.0*
+*August 2025, Version 1.1*
 
-Um sich anmelden zu können, müssen Sie unseren datenschutzrechtlichen Hinweis akzeptieren. Nach Ihrer Anmeldung sammeln wir die Daten im Content-Management-System, das unsere Veranstaltungs-Webseite mit Inhalten befüllt. Wir verwenden Ihre Daten zur Organisation der Veranstaltung. 
+Um sich anmelden zu können, müssen Sie unseren datenschutzrechtlichen Hinweis akzeptieren. Nach Ihrer Anmeldung sammeln wir die Daten im Content-Management-System, das unsere Veranstaltungs-Webseite mit Inhalten befüllt. Wir verwenden Ihre Daten zur Organisation, Bewerbung und Durchführung der Veranstaltung. 
 Unter anderem:
-+ drucken wir einige der Daten (Name, Institution) im Programm ab bzw. zeigen sie online
++ drucken wir einige der Daten (Name, Institution) im Programm ab bzw. zeigen sie online auf öffentlich zugänglichen Websites und in Veranstaltungs-Apps.
++ veröffentlichen wir ein kurzes Profil (Vita) und / oder ein Profilfoto des Beitragenden, sofern diese Daten vom Beitragenden selbst im Einreichungsportal eingepflegt wurden.
 + geben wir ggf. einige der Daten (Name, Beitragstitel, E-Mail-Adresse, Institution, ggf. Telefonnummer) an andere Beitragende weiter, zwecks Inhaltsabstimmung.
 + nutzen wir Ihre Kontaktdaten (Name, E-Mailadresse) für Rückfragen sowie zum Versand von veranstaltungsrelevanten Materialien (z. B. Programm, Tagungsband)
-+ geben wir einige der Daten (Name, Institution) an die Moderatoren der Sessions weiter
++ geben wir einige der Daten (Name, Institution) an die Moderatoren der Sessions weiter.
 + geben wir Ihre Daten ggf. an kooperierende Institutionen weiter, soweit dies zur Erbringung der Leistung notwendig ist.
 
 Bitte beachten Sie auch unsere weitere Datenschutzbestimmungen aus unseren Allgemeinen Geschäftsbedingungen:
 Auszug aus den AGB: § 7 Datenschutz
-1. Nutzerdaten werden unter Beachtung der einschlägigen Vorschriften des Bundesdatenschutzgesetzes (BDSG) und des Telemediengesetzes (TMG) von der Datenbank der Contribution-Seite gespeichert und verarbeitet. Persönliche Daten werden ausschließlich zur Abwicklung Veranstaltungsplanung erfragt.
-2. Der Nutzer willigt darin ein, dass seine personenbezogenen Daten zur Abwicklung der Veranstaltungsplanung erhoben, verarbeitet und genutzt werden.
-3. Die Contribution-Seite gibt keine personenbezogenen Daten an Dritte weiter. Ausgenommen hiervon sind das Programmplanungsteam sowie andere registrierte Nutzer, die ebenfalls einen Beitrag zur Veranstaltungsplanung leisten. In diesen Fällen beschränkt sich der Umfang der übermittelten Daten jedoch auf das erforderliche Minimum.
-4. Der Nutzer hat ein Recht auf Auskunft sowie ein Recht auf Berichtigung, Sperrung und – nach Abschluss der Veranstaltung – auf Löschung seiner gespeicherten Daten. Er hat ferner das Recht, jederzeit Auskunft über den Stand seiner gespeicherten Daten zu verlangen unter der E-Mail: programm@tonmeisterverband.org. Sofern einer Löschung gesetzliche oder vertragliche Aufbewahrungspflichten entgegenstehen, werden die Daten gesperrt.
-5. Die personenbezogenen Daten des Nutzers werden selbstverständlich vertraulich behandelt, insbesondere nicht zum Zwecke der Werbung oder Markt- und Meinungsforschung weitergegeben.
+1. Nutzerdaten werden unter Beachtung der einschlägigen Vorschriften des Bundesdatenschutzgesetzes (BDSG) und des Telemediengesetzes (TMG) von der Datenbank der Contribution-Seite gespeichert und verarbeitet. Persönliche Daten werden zur Abwicklung der Veranstaltungsplanung erfragt. Ein Teil dieser Daten wird zum Zwecke der Bewerbung und Durchführung der Veranstaltung veröffentlicht.
+2. Nutzer\*innen willigen darin ein, dass ihre personenbezogenen Daten zur Abwicklung der Veranstaltungsplanung erhoben, verarbeitet und genutzt werden. Nutzer*innen willigen darin ein, dass ihr Name, sofern ihre Einreichung in das Veranstaltungsprogramm aufgenommen wurde, auf Websites und in Veranstaltungs-Apps veröffentlicht werden.
+3. Nutzer\*innen willigen darin ein, dass ein kurzes persönliches Profil (Vita) und / oder ein Profilfoto auf Websites und in Veranstaltungs-Apps veröffentlicht werden, Indem diese Daten durch den / die Nutzer*in im Einreichungsportal zur Verfügung gestellt wurde.
+4. Darüberhinaus gibt die Contribution-Seite keine personenbezogenen Daten an Dritte weiter. Ausgenommen hiervon sind das Programmplanungsteam, der Session-Moderation sowie andere registrierte Nutzer, die ebenfalls einen Beitrag zur Veranstaltungsplanung leisten. In diesen Fällen beschränkt sich der Umfang der übermittelten Daten jedoch auf das erforderliche Minimum.
+5. Der Nutzer hat ein Recht auf Auskunft sowie ein Recht auf Berichtigung, Sperrung und – nach Abschluss der Veranstaltung – auf Löschung seiner gespeicherten Daten. Er hat ferner das Recht, jederzeit Auskunft über den Stand seiner gespeicherten Daten zu verlangen unter der E-Mail: programm@tonmeisterverband.org. Sofern einer Löschung gesetzliche oder vertragliche Aufbewahrungspflichten entgegenstehen, werden die Daten gesperrt.
+6. Die personenbezogenen Daten des Nutzers werden vertraulich behandelt. Sie werden insbesondere nicht zum Zwecke der Werbung außerhalb der betreffenden Veranstaltung oder jeglicher Art von Markt- und Meinungsforschung weitergegeben.
 
 ---
 
