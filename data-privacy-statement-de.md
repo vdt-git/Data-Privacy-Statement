@@ -14,7 +14,7 @@
 
 ---
 
-##@{id="chapter-1" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutzerklärung für Webseitenbesucher
+##@{id="chapter-1" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutz&shy;erklärung für Webseiten&shy;besucher
 
 ### Webanalyse&shy;dienst Matomo
 Unsere Websites verwenden Matomo, eine Open-Source-Software zur statistischen Auswertung der Nutzerzugriffe. Ein Rückschluss auf eine bestimmte Person ist dabei nicht möglich, da Ihre IP-Adresse sofort nach der Verarbeitung und vor der Speicherung anonymisiert wird. Wir hosten das Matomo selbst. Ein externer Dienstleister kommt nicht zum Einsatz.
@@ -29,7 +29,7 @@ Alternativ verfügen die meisten modernen Browser über eine so genannte „Do N
 
 ---
 
-##@{id="chapter-2" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutzerklärung für die Beitragseinreichung
+##@{id="chapter-2" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutz&shy;erklärung für die Beitrags&shy;einreichung
 
 *August 2025, Version 1.1*
 
@@ -53,7 +53,7 @@ Auszug aus den AGB: § 7 Datenschutz
 
 ---
 
-##@{id="chapter-3" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutzhinweis Presse-Akkreditierung
+##@{id="chapter-3" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutz&shy;hinweis Presse-Akkreditierung
 
 *26. August 2021*
 
@@ -88,7 +88,7 @@ Sie haben gemäß Art. 12-21 DS-GVO das Recht, jederzeit Auskunft über die pers
 
 ---
 
- ##@{id="chapter-4" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutzerklärung TMT33 App
+ ##@{id="chapter-4" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutz&shy;erklärung TMT33 App
 
 Diese Datenschutzerklärung gilt für die TMT33-App (die „Anwendung“), die von Dennis Doerrich („Dienstanbieter“) als kostenloser Dienst erstellt wurde. Durch die Nutzung der Anwendung stimmen Sie den unten aufgeführten Bedingungen zu.
 
