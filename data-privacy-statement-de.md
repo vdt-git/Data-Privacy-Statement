@@ -1,11 +1,11 @@
-### Datenschutzbeauftragte
+### Datenschutz&shy;beauftragte
 + **für den VDT (Verband Deutscher Tonmeister e. V.):** Frank A. Keller, [Glöckner Keller Rechtsanwälte, Nürnberg](https://anwaelte-gkr.de/kontakt/)
 + **für das Bildungswerk des Verbandes Deutscher Tonmeister GmbH:** post@biw-vdt.de
 + **für die tmt33 App:** dennis.h.doerrich@gmail.com
 
 ---
 
-### Inhaltsverzeichnis
+### Inhalts&shy;verzeichnis
 
 + [Datenschutzerklärung für Webseitenbesucher](#chapter-1)
 + [Datenschutzerklärung für die Beitragseinreichung](#chapter-2)
@@ -16,7 +16,7 @@
 
 ##@{id="chapter-1" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutzerklärung für Webseitenbesucher
 
-### Webanalysedienst Matomo
+### Webanalyse&shy;dienst Matomo
 Unsere Websites verwenden Matomo, eine Open-Source-Software zur statistischen Auswertung der Nutzerzugriffe. Ein Rückschluss auf eine bestimmte Person ist dabei nicht möglich, da Ihre IP-Adresse sofort nach der Verarbeitung und vor der Speicherung anonymisiert wird. Wir hosten das Matomo selbst. Ein externer Dienstleister kommt nicht zum Einsatz.
 
 Die Verwendung von Matomo erfolgt zu dem Zweck, die Qualität unserer Website und ihre Inhalte zu verbessern. Dadurch erfahren wir, wie die Website genutzt wird und können so unser Angebot stetig optimieren.
@@ -61,7 +61,7 @@ Informationen gemäß EU-Datenschutz-Grundverordnung (DS-GVO) zur Presse-Akkredi
 
 In dieser Datenschutzerklärung des Bildungswerk des Verbandes Deutscher Tonmeister GmbH informieren wir Sie über die Verarbeitung der personenbezogenen Daten im Zusammenhang mit einer Presse-Akkreditierung. Diese Erklärung ergänzt die allgemeine Datenschutzerklärung auf unserer Website, die Sie unter https://tonmeistertagung.com/de/datenschutzrichtlinie/ finden. Diese Erklärung wird in besonderen Fällen von separaten Datenschutzhinweisen ergänzt.
 
-### 1. Verantwortlicher und Datenschutzbeauftragter
+### 1. Verantwortlicher und Datenschutz&shy;beauftragter
 Das Bildungswerk des Verbandes Deutscher Tonmeister GmbH ist als Veranstalter der Tonmeistertagung - der für die Verarbeitung der personenbezogenen Daten im Zusammenhang mit der Presse-Akkreditierung Verantwortlicher iSd DS-GVO und Dienste-Anbieter. Für Fragen zum Thema Datenschutz wenden Sie sich bitte an die oben genannte Adresse.
 
 ### 2. Kategorien und Quellen der personenbezogenen Daten
@@ -69,11 +69,11 @@ Das Bildungswerk des Verbandes Deutscher Tonmeister GmbH ist als Veranstalter de
 Bei der Registrierung zur Presse-Akkreditierung werden folgende Daten abgefragt: Anrede, akademischer Titel (freiwillig), Vor- und Nachname, Medium/Verlag/Redaktion, Postleitzahl, Stadt, Land, Sprache, E-Mailadresse, Telefonnummer (optional) und in welcher Medienkategorie Sie akkreditiert werden sollen. Zum Abschluss der Registrierung ist noch ein Legitimations-Dokument, wie bereits veröffentlichte Arbeiten und eine Kopie Ihres Presseausweises hochzuladen. Sie können überschüssige Informationen wie Ihr Foto und Ihr Geburtsdatum im Presseausweis schwärzen. 
 Ergänzend können Informationen zu Ihrem Teilnahmeinteresse an veranstaltungsspezifischen Segmenten und Events abgefragt werden. Im Falle der Auswahlmöglichkeit von Zeit und Ort der Teilnahme, wird eine entsprechende Präferenz wie z.B. feste Tage oder Uhrzeiten erhoben. Wir verarbeiten auch Ihre Teilnahmedaten (Tag, Uhrzeiten und ggf. Veranstaltungssegment/Event).
 
-### 3. Verarbeitungszwecke und Rechtsgrundlagen
+### 3. Verarbeitungs&shy;zwecke und Rechts&shy;grundlagen
 #### 3.1. Akkreditierung und Veranstaltungsteilnahme und -organisation
 Das Bildungswerk des Verbandes Deutscher Tonmeister GmbH verarbeitet Ihre personenbezogenen Daten gem. Ziff. 2 für die Durchführung des Akkreditierungsverfahrens, zur Prüfung Ihrer Legitimation sowie bei erfolgreicher Akkreditierung für Ihre Teilnahme an der Veranstaltung bzw. dem Event und deren/dessen Organisation und Durchführung, einschließlich der Erteilung von Zutritts-/Teilnahmeberechtigungen (Rechtsgrundlage: Art. 6 Abs. 1 lit. f DS-GVO (unser berechtigtes Interesse an der Öffentlichkeits- und Pressearbeit sowie der Prüfung der Legitimation und der Veranstaltungsorganisation und -durchführung)).
 
-### 3.2. Presse- und Öffentlichkeitsarbeit
+### 3.2. Presse- und Öffentlichkeits&shy;arbeit
 Ferner nutzen wir Ihre personenbezogenen Daten gem. Ziff. 2 für die Presse- und Öffentlichkeitsarbeit, um Ihnen per E-Mail oder Post Informationen über unser Unternehmen, dem Bildungswerk des Verbandes Deutscher Tonmeister GmbH, zu den Veranstaltungen, Begleit- und Folgeveranstaltungen, die von uns durchgeführt werden oder an denen wir beteiligt sind, zu senden. Folgeveranstaltungen sind auch andere vom Verband Deutscher Tonmeister (VDT) veranstaltete oder durchgeführte Messen im In- und Ausland. Zu diesen Zwecken leiten wir Ihre Daten auch an unseren Verband (VDT) weiter. Rechtsgrundlage für die Verarbeitung ist unser berechtigtes Interesse an der optimalen Betreuung unserer Pressevertreter (Art. 6 Abs. 1 lit. f DS-GVO).
 Ebenso nutzen wir die von Ihnen gem. Ziff. 2 abgegebenen Daten zu statistischen Zwecken. Rechtsgrundlage für die Verarbeitung ist unser berechtigtes Interesse an der Analyse und Auswertung der Zusammensetzung der Pressevertreter (Art. 6 Abs. 1 lit. f DS-GVO).
 
@@ -109,7 +109,7 @@ Alle Aggregationen und Analysen werden intern vom Dienstanbieter mit sicheren To
 ### 3. Widerspruchsrecht
 Sie können die Erfassung von Informationen durch die Anwendung vollständig stoppen, indem Sie die App anonym und ohne Anmeldung verwenden.
 
-### 4. Datenaufbewahrungsrichtlinie
+### 4. Daten&shy;aufbewahrungs&shy;richtlinie
 
 Ihre Daten werden so lange gespeichert, wie Sie die Anwendung nutzen, und für eine angemessene Zeit danach. Um die Löschung Ihrer Daten zu beantragen, füllen Sie bitte das [Formular](https://docs.google.com/forms/d/e/1FAIpQLSe6G7-q1P4bU1THqxxkdvkY-VJ5R_7ukTGVlePgSpvLT9uPtQ/viewform?usp=header) zur Kontolöschung aus.
 
