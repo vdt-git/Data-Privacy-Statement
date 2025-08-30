@@ -62,7 +62,7 @@ Excerpt from our T&C, Section 7 Data protection:
 
 **Information in accordance with the EU General Data Protection Regulation (GDPR) on press accreditation**
  
-In this data protection declaration of the Bildungswerk des Verbandes Deutscher Tonmeister GmbH, we inform you about the processing of personal data in connection with a press accreditation. This declaration supplements the general data protection declaration on our website, which you can find at https://tonmeistertagung.com/en/Data Privacy Statement/. In special cases, this declaration is supplemented by separate data protection notices.
+In this data protection declaration of the Bildungswerk des Verbandes Deutscher Tonmeister GmbH, we inform you about the processing of personal data in connection with a press accreditation.
  
 ### 1. Responsible and data protection officer
 Bildungswerk des Verbandes Deutscher Tonmeister GmbH is the organizer of the Tonmeistertagung – and responsible for processing personal data in connection with press accreditation within the meaning of DS -GVO and service provider. If you have any questions about data protection, please contact the above address.

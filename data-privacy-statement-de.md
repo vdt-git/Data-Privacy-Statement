@@ -59,7 +59,7 @@ Auszug aus den AGB: § 7 Datenschutz
 
 Informationen gemäß EU-Datenschutz-Grundverordnung (DS-GVO) zur Presse-Akkreditierung
 
-In dieser Datenschutzerklärung des Bildungswerk des Verbandes Deutscher Tonmeister GmbH informieren wir Sie über die Verarbeitung der personenbezogenen Daten im Zusammenhang mit einer Presse-Akkreditierung. Diese Erklärung ergänzt die allgemeine Datenschutzerklärung auf unserer Website, die Sie unter https://tonmeistertagung.com/de/datenschutzrichtlinie/ finden. Diese Erklärung wird in besonderen Fällen von separaten Datenschutzhinweisen ergänzt.
+In dieser Datenschutzerklärung des Bildungswerk des Verbandes Deutscher Tonmeister GmbH informieren wir Sie über die Verarbeitung der personenbezogenen Daten im Zusammenhang mit einer Presse-Akkreditierung.
 
 ### 1. Verantwortlicher und Datenschutz&shy;beauftragter
 Das Bildungswerk des Verbandes Deutscher Tonmeister GmbH ist als Veranstalter der Tonmeistertagung - der für die Verarbeitung der personenbezogenen Daten im Zusammenhang mit der Presse-Akkreditierung Verantwortlicher iSd DS-GVO und Dienste-Anbieter. Für Fragen zum Thema Datenschutz wenden Sie sich bitte an die oben genannte Adresse.
