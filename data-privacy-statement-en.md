@@ -27,7 +27,7 @@ You can contradict to the storage and evaluation of this data by Matomo at any t
 
 Alternatively, most modern browsers have a "Do Not Track" option that can be used to instruct websites not to track your activity. Matomo respects this option.
 
-{trackingoptout}
+[[trackingoptout]]
 
 ---
 

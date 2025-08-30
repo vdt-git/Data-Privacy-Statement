@@ -25,7 +25,7 @@ Sie können jederzeit der Speicherung und Auswertung dieser Daten durch Matomo w
 
 Alternativ verfügen die meisten modernen Browser über eine so genannte „Do Not Track“-Option, mit der sie Websites mitteilen, Ihre Nutzeraktivitäten nicht zu verfolgen. Matomo respektiert diese Option.
 
-{trackingoptout}
+[[trackingoptout]]
 
 ---
 
