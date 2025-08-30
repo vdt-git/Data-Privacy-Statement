@@ -14,7 +14,7 @@
 
 ---
 
-##@{id="chapter-1" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutz&shy;erklärung für Webseiten&shy;besucher
+##@{id="chapter-1" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Datenschutz&shy;erklärung für Website&shy;besucher
 
 ### Webanalyse&shy;dienst Matomo
 Unsere Websites verwenden Matomo, eine Open-Source-Software zur statistischen Auswertung der Nutzerzugriffe. Ein Rückschluss auf eine bestimmte Person ist dabei nicht möglich, da Ihre IP-Adresse sofort nach der Verarbeitung und vor der Speicherung anonymisiert wird. Wir hosten das Matomo selbst. Ein externer Dienstleister kommt nicht zum Einsatz.
