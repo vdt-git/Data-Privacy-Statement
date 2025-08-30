@@ -1,6 +1,7 @@
 ### Data Protection Officer
 + **for VDT (Verband Deutscher Tonmeister e. V.):** Frank A. Keller, [Glöckner Keller Rechtsanwälte, Nürnberg](https://anwaelte-gkr.de/kontakt/)
 + **for "Bildungswerk des Verbandes Deutscher Tonmeister GmbH" :** post@biw-vdt.de
++ **for the tmt33 App:** dennis.h.doerrich@gmail.com
 
 ---
 

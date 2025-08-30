@@ -1,6 +1,7 @@
 ### Datenschutzbeauftragte
 + **für den VDT (Verband Deutscher Tonmeister e. V.):** Frank A. Keller, [Glöckner Keller Rechtsanwälte, Nürnberg](https://anwaelte-gkr.de/kontakt/)
-+ **für das Bildungswerk des Verbandes Deutscher Tonmeister GmbH :** post@biw-vdt.de
++ **für das Bildungswerk des Verbandes Deutscher Tonmeister GmbH:** post@biw-vdt.de
++ **für die tmt33 App:** dennis.h.doerrich@gmail.com
 
 ---
 
