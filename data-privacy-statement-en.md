@@ -5,6 +5,8 @@
 
 ---
 
+### Table of Contents
+
 + [Data privacy statement for website visitors](#chapter-1)
 + [Data Privacy statement for contributions](#chapter-2)
 + [Data protection notice for press accreditation](#chapter-3)

@@ -4,6 +4,7 @@
 + **für die tmt33 App:** dennis.h.doerrich@gmail.com
 
 ---
+### Inhaltsverzeichnis
 
 + [Datenschutzerklärung für Webseitenbesucher](#chapter-1)
 + [Datenschutzerklärung für die Beitragseinreichung](#chapter-2)
