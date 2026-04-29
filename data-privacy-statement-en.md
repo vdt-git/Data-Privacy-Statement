@@ -1,39 +1,227 @@
-### Data Protection Officer
-+ **for VDT (Verband Deutscher Tonmeister e. V.):** Frank A. Keller, [Glöckner Keller Rechtsanwälte, Nürnberg](https://anwaelte-gkr.de/kontakt/)
-+ **for "Bildungswerk des Verbandes Deutscher Tonmeister GmbH" :** post@biw-vdt.de
-+ **for the tmt33 App:** dennis.h.doerrich@gmail.com
+
+*version 2.0 – 2026-04-29*
+
+## Preamble
+
+We hereby inform you about the collection, processing and storage of personal data by the Verband Deutscher Tonmeister e. V. and the Bildungswerk des Verbandes Deutscher Tonmeister GmbH. Please refer to the table of contents to see which section applies to you. Where applicable, confirmation that you have read this document may be required.
 
 ---
 
-### Table of Contents
+## Table of Contents
 
-+ [Data privacy statement for website visitors](#chapter-1)
-+ [Data Privacy statement for contributions](#chapter-2)
-+ [Data protection notice for press accreditation](#chapter-3)
-+ [Data privacy statement for the TMT33 App](#chapter-4)
++ [Privacy Policy for Members of the Verband Deutscher Tonmeister e. V.](#chapter-1)
++ [Privacy Policy for Website Visitors](#chapter-2)
++ [Privacy Policy for Submissions (“Call for Contributions”)](#chapter-3)
++ [Privacy Policy for the Use of the tmt33 App](#chapter-4)
 
 ---
 
-##@{id="chapter-1" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Data privacy statement for website visitors
+##@{id=‘chapter-1’ class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Privacy Policy for members of the Verband Deutscher Tonmeister e. V.
 
-*April 2020 Version 1.0*
+### 1. Data controller
 
-### Web analysis service Matomo
-Our websites use Matomo, an open source software for statistical analysis of user access. It is not possible to infer a specific person because your IP address is anonymized immediately after processing and before it is saved. We host Matomo ourselves. An external service provider is not involved.
+*__Name:__* Verband Deutscher Tonmeister e. V.  
+*__Legal form:__* registered association  
+*__Registered office:__* Kolumbastraße 5, 50667 Cologne, Germany  
+*__Represented by:__* the Executive Board (in accordance with Section 26 of the German Civil Code (BGB))  
+*__Data Protection Contact:__* datenschutz@tonmeisterverband.org 
 
-Matomo is used for the purpose of improving the quality of our website and its content. This tells us how the website is being used and enables us to continuously optimize our offer.
+### 2. Purposes and legal basis of data processing
 
-You can contradict to the storage and evaluation of this data by Matomo at any time. In this case, a so-called opt-out cookie is permanently stored in your browser, which causes Matomo not to collect any data for storage and analysis. However, if you intentionally or unintentionally delete this cookie, the contradiction to data storage and analysis will also be cancelled. Cookies are only used to recognize your contradiction each time a page is accessed.
+The association processes its members’ personal data exclusively for the fulfilment of the purposes and tasks set out in its Articles of Association.
 
-Alternatively, most modern browsers have a "Do Not Track" option that can be used to instruct websites not to track your activity. Matomo respects this option.
+This includes, in particular:
+
+* Membership administration
+* Collection of membership fees
+* Organisation of the association’s operations
+* Communication with members
+* Organisation of events
+
+Processing is carried out on the basis of Article 6(1)(b) of the GDPR (contract/membership) and Article 6(1)(f) of the GDPR (legitimate interests of the Association).
+
+### 3. Categories of data processed
+
+In particular, the following data is processed:
+
+* Surname, first name
+* Address
+* Date of birth
+* Contact details (telephone, email)
+* Bank details (for membership fee collection)
+* Date of joining and, where applicable, date of leaving
+* Association-related roles (e.g. positions within the association)
+* Professional qualifications and other qualifications
+* Occupation
+* Employer
+
+### 4. Recipients of the data
+
+Personal data will only be disclosed where necessary, e.g. to:
+
+* Banks (for the collection of membership fees)
+* Partner associations
+* Public authorities (where required by law)
+
+No further disclosure will take place without the specific consent of the individual member concerned. For the purpose of networking and communication amongst members, members have the option of making their contact details available to other members via the association’s website.
+
+### 5. Retention period
+
+Personal data will be stored for the duration of membership.
+
+Upon termination of membership, the data will be deleted, provided there are no statutory retention obligations.
+
+### 6. Members’ rights
+
+Members have the right:
+
+* to access their stored data
+* to have incorrect data rectified
+* to have data erased or processing restricted
+* to data portability
+* to object to processing
+
+Exercising the aforementioned rights may necessitate withdrawal from the association if there is a conflict with the association’s statutory objectives.
+
+Statutory requirements regarding data storage remain unaffected.
+
+You have the right to lodge a complaint with a data protection supervisory authority.
+
+### 7. Publication of data / photos
+
+As part of the association’s activities, photos and reports on events may be published on the website or in the association’s media.
+
+This is done on the basis of the association’s legitimate interest in public relations.
+Members may object to such publication at any time.
+
+### 8. Data security
+
+The association takes appropriate technical and organisational measures to protect data from loss, manipulation or unauthorised access.
+
+### 9. Note on Voluntary Provision
+
+The provision of personal data is necessary for the establishment and administration of membership. Membership is not possible without this data.
+
+### 10. Amendments
+
+This privacy policy may be amended as necessary. The current version shall apply at all times.
+
+### 11. Data Processing by Processors
+See Article 28(3) of the GDPR  
+A data processing agreement in accordance with Article 28(3) of the GDPR has been concluded with both the operator of the cloud-based membership management system, based in Switzerland, and the hosting provider all-inkl.com.
+
+---
+
+##@{id=‘chapter-2’ class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Privacy Policy for Website Visitors
+
+### 1. Data Controller 
+
+*__Name:__* Verband Deutscher Tonmeister e. V.  
+*__Legal form:__* registered association  
+*__Registered office:__* Kolumbastraße 5, 50667 Cologne, Germany  
+*__Represented by:__* Stefani Renner, Managing Director  
+*__Data protection contact:__* datenschutz@tonmeisterverband.org 
+
+hereinafter referred to as the “operator”.
+
+### 2. Data processing and data storage
+
+When you visit the website, the operator does not initially collect, process or store any direct personal data. (see point 4)
+
+Personal data may be identified through the storage of your IP address in the provider’s log files (see point 5). This is only possible on the basis of a corresponding court order.
+
+### 3. Cookies
+Cookies are small text files that are stored on your computer. They are associated with a domain (web address). Whenever you visit the associated domain (or one of its subdomains), the contents of these text files are sent from your device to the relevant server.
+
+#### 3.1. Session Cookies
+This website uses only technically necessary cookies, which are required for the secure operation of the website and its functions. These include, amongst other things, registration, login or the use of an integrated ticket shop. It is possible to disable these cookies in your browser. However, in this case, the error-free functioning of our website can no longer be guaranteed. The use of technically necessary cookies constitutes a legitimate interest of the operator (pursuant to Article 6(1)(f) of the GDPR) and does not require individual consent from the website visitor.
+
+#### 3.2. Third-party cookies
+When you visit the public section of this website, no third-party cookies are initially set. However, when you use the ticket shop and to ensure secure payment processing, technically necessary cookies are set by the ticket shop provider “Pretix” and the payment service provider “Stripe”. The setting of these cookies constitutes a legitimate interest on the part of the operator, the ticket shop provider and the payment service provider (in accordance with Article 6(1)(f) of the GDPR) and does not require individual consent from the website visitor.
+
+On pages within this website that provide content (in particular media such as photos, videos and audio files) from external data sources, a cookie (name: eu-cookie, value: 1) is set by clicking a “Confirm” button. (see point 4)
+If your browser is configured to allow third-party cookies, further cookies may be set once you have consented to the setting of this cookie.
+
+#### 3.3. Web tracking cookies
+This website does not use cookies to analyse user behaviour (so-called web tracking). (see point 5)
+
+### 4. External data sources
+Some pages on this website provide media that is loaded from external data sources. The servers hosting these resources may be located outside Germany and the EU. As a result, the operators responsible are not necessarily obliged to comply with the Federal Data Protection Act (BDSG) or the European General Data Protection Regulation (GDPR).
+
+However, for technical reasons, it is not possible to prevent data (e.g. IP address, browser data) from being transmitted from your device to this external data source when these resources are loaded.
+
+The extent to which the transmitted data is used or analysed by an external operator, or linked to other data that you have knowingly or unknowingly transmitted to this operator outside of this website, is beyond our knowledge and responsibility.
+
+However, without your express consent, this website will not establish any data connection to an external source that is not subject to the GDPR, or with whose operator no data processing agreement has been concluded in accordance with Article 28(3) of the GDPR.
+
+By clicking the ‘Confirm’ button, you confirm that you have read and accepted this privacy policy. You also agree to a cookie (see point 3) being set to prevent this warning message from appearing again and to enable you to view the media that has been loaded.
+
+By clicking the ‘Confirm’ button, you also expressly consent to the transfer of your IP address and other data, e.g. information about your browser or your device, to all external sources integrated into this website.
+
+### 5. Analysis, Tracking and Log Files
+
+#### 5.1. Matomo Web Analytics Service
+
+Our websites use Matomo, an open-source software for the statistical analysis of user traffic. It is not possible to identify a specific individual, as your IP address is anonymised immediately after processing and before storage.
+
+We use Matomo to improve the quality of our websites and their content. This enables us to understand how the website is used and thus to continuously optimise our offering.
+
+We host Matomo ourselves. No external service provider is used. Access to the collected data is restricted to the association itself and the hosting provider (see point x).
+
+You may object to the storage and analysis of this data by Matomo at any time. In this case, a so-called opt-out cookie will be permanently stored in your browser, which instructs Matomo not to collect any data for storage and analysis. However, should you delete this cookie, whether intentionally or unintentionally, your objection to the storage and analysis of data will also be revoked. Cookies are used exclusively to recognise your objection each time you visit the page.
+
+Alternatively, most modern browsers have a so-called ‘Do Not Track’ option, which allows you to instruct websites not to track your user activity. Matomo respects this option.
 
 [[trackingoptout]]
 
+The website operator does not store any personal data in log files. 
+The hosting provider, all-inkl.com, stores IP addresses for 7 days. Whilst it is theoretically possible to identify personal data from these, this cannot be done without a court order. Further information on this can be found at https://all-inkl.com/wichtig/faq/#auftragsverarbeitung-11.
+
+### 6. Data processing on behalf of the controller 
+A data processing agreement in accordance with Article 28(3) of the GDPR has been concluded with the hosting provider all-inkl.com and the ticket shop operator Pretix [https://pretix.eu/about/de/privacy](https://pretix.eu/about/de/privacy).
+
+### 7. Links
+You may find links to other providers’ websites on this website. As soon as you leave this website via such a link, this privacy policy ceases to apply. We have no influence over whether these providers comply with the statutory data protection regulations.
+
+### 8. Event registration
+On our websites, you may be able to register for events via the event listings published there. In doing so, your name and email address will be collected. This data is provided to the organisers so that they can contact you regarding further planning or to compile participant lists. You may easily cancel your registration or remove yourself from the waiting list prior to the event.
+
+### 9. Payment service provider Stripe
+We offer the option of processing payments via the payment service provider Stripe, c/o Legal Process, 510 Townsend St., San Francisco, CA 94103 (Stripe). This is in line with our legitimate interest in offering an efficient and secure payment method (Art. 6(1)(f) GDPR). In this context, we pass on the following data to Stripe to the extent necessary for the performance of the contract (Art. 6(1)(b) GDPR).
+
+Cardholder’s name  
+Email address  
+Customer number  
+Order number  
+Bank details  
+Credit card details  
+Credit card expiry date  
+Credit card security code (CVC)  
+Date and time of the transaction  
+Transaction amount  
+Merchant name  
+Location
+
+The processing of the data specified in this section is not required by law or contract. Without the provision of your personal data, we cannot process a payment via Stripe. You have the option of choosing a different payment method.
+
+Stripe acts in a dual role as both data controller and data processor in its data processing activities. As a data controller, Stripe uses the data you provide to fulfil regulatory obligations. This corresponds to Stripe’s legitimate interest (pursuant to Article 6(1)(f) of the GDPR) and serves the purpose of contract performance (pursuant to Article 6(1)(b) of the GDPR). We have no influence over this process.
+
+Stripe acts as a data processor to enable transactions to be completed within the payment networks. Within the framework of the data processing relationship, Stripe acts exclusively on our instructions and has been contractually obliged, in accordance with Article 28 of the GDPR, to comply with data protection regulations.
+
+Stripe has implemented compliance measures for international data transfers. These apply to all global activities in which Stripe processes personal data of individuals in the EU. These measures are based on the EU Standard Contractual Clauses (SCCs).
+
+Further information on your rights to object and request rectification in relation to Stripe can be found at: https://stripe.com/privacy-center/legal
+
+We will retain your data until the payment transaction has been completed. This includes the period required for processing refunds, debt management and fraud prevention.
+
+#### Legal information
+**Address:** Stripe Payments Europe Limited 1 Grand Canal Street Lower, Grand Canal Dock, Dublin, D02 H210, Ireland Attention: Stripe Legal 
+
+https://stripe.com/de/privacy
+
 ---
 
-##@{id="chapter-2" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Data Privacy Statement for Contributions
-
-*August 2025 Version 1.1*
+##@{id="chapter-3" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Data Privacy Statement for Contributions
 
 You are required to accept our privacy policy to register. After you have registered, we collect the data in the content management system which feeds our event website with content. We use to organise the event. 
 Among other things, we   
@@ -56,37 +244,7 @@ Excerpt from our T&C, Section 7 Data protection:
 
 ---
 
-##@{id="chapter-3" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Data protection notice for press accreditation 
-
-*August, 26th 2021*
-
-**Information in accordance with the EU General Data Protection Regulation (GDPR) on press accreditation**
- 
-In this data protection declaration of the Bildungswerk des Verbandes Deutscher Tonmeister GmbH, we inform you about the processing of personal data in connection with a press accreditation.
- 
-### 1. Responsible and data protection officer
-Bildungswerk des Verbandes Deutscher Tonmeister GmbH is the organizer of the Tonmeistertagung – and responsible for processing personal data in connection with press accreditation within the meaning of DS -GVO and service provider. If you have any questions about data protection, please contact the above address.
-
-### 2. Categories and sources of personal data
- When registering for press accreditation, the following data is requested: salutation, academic title (optional), first and last name, medium / publisher / editorial office, zip code, city, country, language, email address, telephone number (optional) and in which Media category you are to be accredited. 
-At the end of the registration process, a legitimation document, such as work that has already been published, and a copy of your press ID must be uploaded. You can black out excess information such as your photo and date of birth on the press card. In addition, information on your interest in participating in event-specific segments and events can be requested. If the time and place of participation can be selected, a corresponding preference such as fixed days or times will be collected. We also process your participation data (day, times and event segment / event, if applicable).
-### 3. Processing purposes and legal bases
-#### 3.1. Accreditation and event participation and organization
-The Bildungswerk des Verbandes Deutscher Tonmeister GmbH processes your personal data in accordance with Section 2 to carry out the accreditation procedure, to check your legitimacy and, if you have been successfully accredited, for your participation in the event and its organization and implementation, including the Granting of access / participation authorizations (legal basis: Art. 6 Para. 1 lit. f GDPR (our legitimate interest in public and press work as well as checking the legitimacy and the organization and implementation of the event)). 
-#### 3.2. Press and public relations
-Furthermore, we use your personal data in accordance with Section 2 for press and public relations work in order to provide you with information about our company, the Bildungswerk des Verbandes Deutscher Tonmeister GmbH, about the events, accompanying and follow-up events organized by carried out by us or in which we are involved. Follow-up events are also other trade fairs organized or carried out by the Association of German Tonmeister (VDT) in Germany and abroad. 
-For these purposes, we also forward your data to our association (VDT). The legal basis for the processing is our legitimate interest in providing optimal support for our press representatives (Art. 6 Para. 1 lit. f GDPR). We also use the data you provide in accordance with Section 2 for statistical purposes. The legal basis for the processing is our legitimate interest in the analysis and evaluation of the composition of the press representatives (Art. 6 Para. 1 lit. f GDPR). 
-### 4. Categories of recipients of the data
-In addition to transferring data to the recipients named in Section 3 for the purposes listed there, we use the personal data to carry out certain processing activities in connection with the ticket purchase and the operation of the ticketing platform of our external service companies (in particular online ticket shop, (digital) communication measures Process data on our behalf (so-called "contract processors"). 
-### 5. Storage period
-Stored personal data will be deleted as soon as they are no longer required for the respective purpose of their processing. The legitimation documents will be deleted after a positive verification of the legitimation has been carried out. Insofar as the processing takes place on the basis of consent or on the basis of a legitimate interest of the Bildungswerk des VDT, the data in question will no longer be processed for the associated purpose after receipt of the revocation of the consent or the objection and, if necessary, deleted. 
-### 6. Your rights
- According to Art. 12-21 GDPR, you have the right to request information about your personal data at any time, the right to correction, deletion and portability of the data as well as restriction of processing. Insofar as the processing is based on legitimate interests, you have the right to object to the processing of personal data at any time for reasons that arise from your particular situation. 
-If you have given us your consent, you can revoke it at any time with effect for the future. If you are of the opinion that the data processing violates data protection law, you have the right to lodge a complaint with the competent supervisory authority (Art. 77 GDPR in conjunction with Section 19 of the Federal Data Protection Act). To exercise your rights, you can contact the person responsible by post or email (for contact details, see Section 1 above).
-
----
-
- ##@{id="chapter-4" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Data Privacy Statement TMT33 App
+ ##@{id="chapter-4" class="uk-margin-remove-top uk-padding-remove-horizontal uk-padding-remove-bottom uk-padding-large"} Privacy Policy for the Use of the tmt33 App
 
 This Privacy Policy applies to the TMT33 app (the "Application"), created by Dennis Doerrich ("Service Provider") as a free service. By using the Application, you agree to the terms outlined below.
 
@@ -118,8 +276,6 @@ The Service Provider safeguards your information with physical, electronic, and 
 
 ### 7. Changes
 This Privacy Policy may be updated periodically. Changes will be posted on this page, and continued use of the Application implies consent to updates.
-
-**Effective Date: 2024-12-23**
 
 ### 8. Contact
 For privacy-related questions, contact the Service Provider at dennis.h.doerrich@gmail.com.
