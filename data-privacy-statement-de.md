@@ -279,7 +279,5 @@ Der Dienstanbieter schützt Ihre Informationen durch physische, elektronische un
 ### 7. Änderungen
 Diese Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden. Änderungen werden auf dieser Seite veröffentlicht, und die fortgesetzte Nutzung der Anwendung gilt als Zustimmung zu den Aktualisierungen.
 
-**Gültigkeitsdatum: 23.12.2024**
-
 ### 8. Kontakt
 Bei Fragen zum Datenschutz wenden Sie sich bitte an den Dienstanbieter unter dennis.h.doerrich@gmail.com.
