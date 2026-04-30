@@ -117,7 +117,7 @@ Mit dem Betreiber der cloud-basierten Mitgliederverwaltung mit Sitz in der Schwe
 ### 1. Verantwortliche Stelle 
 
 *__Name:__* Verband Deutscher Tonmeister e. V.  
-*__Rechtsform:__* eingetragene Verein  
+*__Rechtsform:__* eingetragener Verein  
 *__Sitz:__* Kolumbastraße 5, 50667 Köln, Deutschland  
 *__Vertreten durch:__* Stefani Renner, Geschäftsführerin  
 *__Kontakt Datenschutz:__* datenschutz@tonmeisterverband.org 
