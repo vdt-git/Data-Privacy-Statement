@@ -21,7 +21,7 @@ Hiermit informieren wir dich über Erhebung, Verarbeitung und Speicherung von pe
 ### 1. Verantwortliche Stelle
 
 *__Name:__* Verband Deutscher Tonmeister e. V.  
-*__Rechtsform:__* eingetragene Verein  
+*__Rechtsform:__* eingetragener Verein  
 *__Sitz:__* Kolumbastraße 5, 50667 Köln, Deutschland  
 *__Vertreten durch:__* den Vorstand (gemäß § 26 BGB)  
 *__Kontakt Datenschutz:__* datenschutz@tonmeisterverband.org 
