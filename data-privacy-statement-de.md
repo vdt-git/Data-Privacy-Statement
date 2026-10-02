@@ -1,5 +1,5 @@
 
-*Version 2.0 – 2026-04-29*
+*Version 2.1 – 2026-10-02*
 
 ## Präambel
 
@@ -24,52 +24,58 @@ Hiermit informieren wir dich über Erhebung, Verarbeitung und Speicherung von pe
 *__Rechtsform:__* eingetragener Verein  
 *__Sitz:__* Kolumbastraße 5, 50667 Köln, Deutschland  
 *__Vertreten durch:__* den Vorstand (gemäß § 26 BGB)  
-*__Kontakt Datenschutz:__* datenschutz@tonmeisterverband.org 
+*__Datenschutzkontakt:__* datenschutz@tonmeisterverband.org 
 
 ### 2. Zwecke und Rechtsgrundlagen der Datenverarbeitung
 
-Der Verein verarbeitet personenbezogene Daten seiner Mitglieder ausschließlich zur Erfüllung der satzungsgemäßen Zwecke und Aufgaben.
+Der Verband Deutscher Tonmeister e. V. verarbeitet personenbezogene Daten seiner Mitglieder zur Begründung, Durchführung und Verwaltung der Mitgliedschaft sowie zur Wahrnehmung seiner satzungsgemäßen Aufgaben als Berufsverband.
 
 Dies umfasst insbesondere:
 
-* Mitgliederverwaltung
-* Beitragseinzug
-* Organisation des Vereinsbetriebs
-* Kommunikation mit Mitgliedern
-* Durchführung von Veranstaltungen
++ die Bearbeitung von Mitgliedsanträgen und die Prüfung der Voraussetzungen für eine Mitgliedschaft,
++ die Mitgliederverwaltung und die Pflege der Mitgliederdaten,
++ die Erhebung und Verwaltung von Mitgliedsbeiträgen,
++ die Kommunikation mit Mitgliedern,
++ die Organisation und Durchführung von Veranstaltungen und weiteren Verbandsaktivitäten,
++ die Durchführung von Wahlen und die Wahrnehmung von Mitgliedsrechten,
++ die fachliche und berufliche Arbeit des Verbandes,
++ die Erstellung von anonymisierten bzw. aggregierten Statistiken zur Mitgliederstruktur, beispielsweise zur Alters-, Berufs- und Ausbildungsstruktur,
++ die Betreuung und Information bestimmter Mitgliedergruppen, beispielsweise aufgrund beruflicher Tätigkeit, Ausbildung oder Alters.
++ Prüfung der Voraussetzungen für die Aufnahme in den Verband, einschließlich der hierfür vorgesehenen Bestätigung durch bereits bestehende Mitglieder (Bürgen).
 
-Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (Vertrag/Mitgliedschaft) sowie Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse des Vereins).
+Soweit die Verarbeitung zur Begründung und Durchführung der Mitgliedschaft erforderlich ist, erfolgt sie auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO. Soweit die Verarbeitung zur Wahrnehmung der satzungsgemäßen Aufgaben und berechtigten Interessen des Verbandes erforderlich ist und keine überwiegenden Interessen oder Grundrechte der betroffenen Personen entgegenstehen, erfolgt sie auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
 
 ### 3. Kategorien verarbeiteter Daten
 
-Es werden insbesondere folgende Daten verarbeitet:
+Je nach Art und Zweck der Mitgliedschaft werden insbesondere folgende Daten verarbeitet:
 
-* Name, Vorname
-* Anschrift
-* Geburtsdatum
-* Kontaktdaten (Telefon, E-Mail)
-* Bankverbindung (für Beitragseinzug)
-* Eintritts- und ggf. Austrittsdatum
-* Vereinsbezogene Funktionen (z. B. Ämter im Verein)
-* Berufsabschlüsse und weitere Qualifikationen
-* ausgeübter Beruf
-* Arbeitgeber
++ Stammdaten (Name, Vorname, ggf. Geburtsname, Geburtsdatum),
++ Kontaktdaten (Anschrift, E-Mail-Adresse, Telefonnummer),
++ Angaben zur Mitgliedschaft (Eintritts- und ggf. Austrittsdatum, Mitgliedsart, vereinsbezogene Funktionen),
++ Angaben zur beruflichen Tätigkeit (ausgeübter Beruf, Arbeitgeber),
++ Angaben zu Ausbildung und Qualifikationen (z. B. Berufsabschlüsse und weitere für die Mitgliedschaft relevante Qualifikationen),
++ Zahlungs- und Bankverbindungsdaten, soweit diese für den Beitragseinzug erforderlich sind.
 
-### 4. Empfänger der Daten
+### 4. Empfänger personenbezogener Daten
+Personenbezogene Daten werden innerhalb des Verbandes nur denjenigen Personen zugänglich gemacht, die diese Daten zur Erfüllung ihrer jeweiligen Aufgaben benötigen.
 
-Personenbezogene Daten werden nur weitergegeben, wenn dies erforderlich ist, z. B. an:
+Soweit dies für die genannten Zwecke erforderlich ist, können personenbezogene Daten an folgende Empfänger bzw. Kategorien von Empfängern übermittelt werden:
 
-* Banken (für den Beitragseinzug)
-* Partnerverbände
-* Behörden (sofern gesetzlich erforderlich)
++ Banken und Zahlungsdienstleister im Zusammenhang mit dem Beitragseinzug,
++ technische Dienstleister und Auftragsverarbeiter, die den Verband bei der Mitgliederverwaltung, beim Hosting oder bei der technischen Bereitstellung von Vereinsangeboten unterstützen,
++ Behörden und sonstige öffentliche Stellen, soweit eine gesetzliche Verpflichtung zur Übermittlung besteht,
++ Gerichte, Rechtsanwälte, Steuerberater oder sonstige zur Verschwiegenheit verpflichtete Stellen, soweit dies zur Wahrnehmung oder Verteidigung rechtlicher Interessen des Verbandes erforderlich ist,
++ Verbände und sonstige Organisationen, soweit eine Übermittlung im Rahmen der satzungsgemäßen Verbandsarbeit erforderlich und datenschutzrechtlich zulässig ist.
 
-Eine darüber hinausgehende Weitergabe erfolgt nicht ohne weitere  Zustimmung des jeweils einzelnen Mitglieds. Zum Zweck der Vernetzung und Kommunikation der Mitglieder untereinander, hat das Mitglied die Möglichkeit, Kontaktdaten über die Vereins-Website anderen Mitgliedern zugänglich zu machen.
+Eine darüber hinausgehende Übermittlung personenbezogener Daten an Dritte erfolgt nur, wenn hierfür eine entsprechende Rechtsgrundlage besteht oder eine erforderliche Einwilligung vorliegt.
 
 ### 5. Speicherdauer
 
-Die personenbezogenen Daten werden für die Dauer der Mitgliedschaft gespeichert.
+Personenbezogene Daten werden grundsätzlich für die Dauer der Mitgliedschaft gespeichert.
 
-Nach Beendigung der Mitgliedschaft werden die Daten gelöscht, sofern keine gesetzlichen Aufbewahrungspflichten bestehen.
+Nach Beendigung der Mitgliedschaft werden die Daten gelöscht, sobald sie für die Zwecke, für die sie erhoben wurden, nicht mehr erforderlich sind und keine gesetzlichen Aufbewahrungspflichten oder berechtigten Interessen, insbesondere zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen, einer Löschung entgegenstehen.
+
+Soweit gesetzliche Aufbewahrungsfristen bestehen, werden die betreffenden Daten für die Dauer dieser Fristen aufbewahrt und anschließend gelöscht.
 
 ### 6. Rechte der Mitglieder
 
@@ -81,18 +87,19 @@ Mitglieder haben das Recht:
 * auf Datenübertragbarkeit
 * auf Widerspruch gegen die Verarbeitung
 
-Die Einforderung der vorgenannten Rechte kann einen Vereinsaustritt unumgänglich machen, wenn ein Widerspruch zu den satzungsmäßigen Aufgaben des Vereins besteht.
-
 Gesetzliche Vorgaben zur Datenspeicherung bleiben unberührt.
 
 Es besteht Beschwerderecht bei einer Datenschutzaufsichtsbehörde.
 
-### 7. Veröffentlichung von Daten / Fotos
+### 7. Veröffentlichung von Daten und Fotos
 
-Im Rahmen der Vereinsarbeit können Fotos und Berichte über Veranstaltungen auf der Website oder in Vereinsmedien veröffentlicht werden.
+Im Rahmen der Verbandsarbeit können Berichte über Veranstaltungen und sonstige Verbandsaktivitäten sowie dabei entstandene Fotos in den Vereinsmedien, insbesondere im VDT-Magazin und auf der Website des VDT, veröffentlicht werden.
 
-Dies erfolgt auf Grundlage des berechtigten Interesses des Vereins an Öffentlichkeitsarbeit.
-Mitglieder können der Veröffentlichung jederzeit widersprechen.
+Die Veröffentlichung erfolgt, soweit die gesetzlichen Voraussetzungen hierfür vorliegen, insbesondere auf Grundlage eines berechtigten Interesses des VDT an der Information über seine Verbandsarbeit und Öffentlichkeitsarbeit.
+
+Bei der Auswahl und Veröffentlichung von Aufnahmen werden die berechtigten Interessen der abgebildeten Personen berücksichtigt. Gegen eine Verarbeitung auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO kann aus Gründen, die sich aus der besonderen Situation der betroffenen Person ergeben, Widerspruch eingelegt werden.
+
+Soweit für eine konkrete Veröffentlichung eine Einwilligung erforderlich ist, wird diese gesondert eingeholt.
 
 ### 8. Datensicherheit
 
@@ -104,11 +111,11 @@ Die Bereitstellung der personenbezogenen Daten ist für die Begründung und Durc
 
 ### 10. Änderungen
 
-Diese Datenschutzerklärung kann bei Bedarf angepasst werden. Es gilt jeweils die aktuelle Version.
+Diese Datenschutzerklärung kann bei Bedarf angepasst werden, wenn dies aufgrund rechtlicher, organisatorischer oder technischer Änderungen erforderlich wird. Es gilt jeweils die aktuelle und über die Verbandswebsite veröffentlichte Version.
 
-### 11. Auftragsdatenverarbeitung
+### 11. Auftragsverarbeitung
 vgl. DSGVO Art. 28 Abs. 3  
-Mit dem Betreiber der cloud-basierten Mitgliederverwaltung mit Sitz in der Schweiz und dem Hosting Provider all-inkl.com wurde jeweils ein Auftragsverarbeitungsvertrag gemäß Art. 28 Abs. 3 (DSGVO) geschlossen.
+Mit dem Betreiber uSystems GmbH der cloud-basierten Vereinssoftware „Webling“ mit Sitz in der Schweiz und dem Hosting Provider all-inkl.com – Neue Medien Münnich wurde jeweils ein Auftragsverarbeitungsvertrag gemäß Art. 28 Abs. 3 (DSGVO) geschlossen.
 
 ---
 

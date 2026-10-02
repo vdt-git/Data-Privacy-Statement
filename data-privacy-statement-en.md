@@ -1,5 +1,5 @@
 
-*version 2.0 – 2026-04-29*
+*version 2.1 – 2026-10-02*
 
 ## Preamble
 
@@ -28,48 +28,55 @@ We hereby inform you about the collection, processing and storage of personal da
 
 ### 2. Purposes and legal basis of data processing
 
-The association processes its members’ personal data exclusively for the fulfilment of the purposes and tasks set out in its Articles of Association.
+The Verband Deutscher Tonmeister e. V. processes its members’ personal data for the purposes of establishing, maintaining, and administering membership, as well as for fulfilling its statutory duties as a professional association.
 
 This includes, in particular:
 
-* Membership administration
-* Collection of membership fees
-* Organisation of the association’s operations
-* Communication with members
-* Organisation of events
++ processing membership applications and verifying eligibility for membership,
++ managing members and maintaining member data,
++ collecting and managing membership dues,
++ communicating with members,
++ the organization and conduct of events and other association activities,
++ the conduct of elections and the exercise of members’ rights,
++ the association’s technical and professional work,
++ the compilation of anonymized or aggregated statistics on the membership structure, such as age, occupation, and educational background,
++ the support and provision of information to specific member groups, for example, based on professional activity, education, or age.
++ Verification of the requirements for admission to the association, including the required confirmation by existing members (guarantors).
 
-Processing is carried out on the basis of Article 6(1)(b) of the GDPR (contract/membership) and Article 6(1)(f) of the GDPR (legitimate interests of the Association).
+To the extent that processing is necessary for the establishment and administration of membership, it is carried out on the basis of Article 6(1)(b) of the GDPR. To the extent that processing is necessary for the performance of the Association’s statutory duties and legitimate interests, and provided that no overriding interests or fundamental rights of the data subjects preclude such processing, it is carried out on the basis of Article 6(1)(f) of the GDPR.
 
 ### 3. Categories of data processed
 
-In particular, the following data is processed:
+Depending on the type and purpose of membership, the following data in particular is processed:
 
-* Surname, first name
-* Address
-* Date of birth
-* Contact details (telephone, email)
-* Bank details (for membership fee collection)
-* Date of joining and, where applicable, date of leaving
-* Association-related roles (e.g. positions within the association)
-* Professional qualifications and other qualifications
-* Occupation
-* Employer
++ Master data (last name, first name, maiden name if applicable, date of birth),
++ Contact information (mailing address, email address, phone number),
++ Membership details (date of joining and, if applicable, date of resignation, membership type, club-related roles),
++ Professional activity details (occupation, employer),
++ Education and qualifications (e.g., professional degrees and other qualifications relevant to membership),
++ Payment and bank account information, to the extent necessary for collecting membership dues.
 
-### 4. Recipients of the data
+### 4. Recipients of personal data
 
-Personal data will only be disclosed where necessary, e.g. to:
+Within the association, personal data is made available only to those individuals who need it to perform their respective duties.
 
-* Banks (for the collection of membership fees)
-* Partner associations
-* Public authorities (where required by law)
+To the extent necessary for the purposes stated, personal data may be transferred to the following recipients or categories of recipients:
 
-No further disclosure will take place without the specific consent of the individual member concerned. For the purpose of networking and communication amongst members, members have the option of making their contact details available to other members via the association’s website.
++ Banks and payment service providers in connection with the collection of membership dues,
++ technical service providers and data processors who support the Association in membership administration, hosting, or the technical provision of the Association’s services,
++ government agencies and other public authorities, to the extent that there is a legal obligation to disclose such data,
++ courts, attorneys, tax advisors, or other entities bound by confidentiality obligations, to the extent necessary to assert or defend the Association’s legal interests,
++ associations and other organizations, to the extent that disclosure is necessary within the scope of the association’s statutory activities and is permitted under data protection law.
+
+Any disclosure of personal data to third parties beyond the scope described above will only take place if there is a corresponding legal basis for doing so or if the necessary consent has been obtained.
 
 ### 5. Retention period
 
-Personal data will be stored for the duration of membership.
+Personal data is generally retained for the duration of membership.
 
-Upon termination of membership, the data will be deleted, provided there are no statutory retention obligations.
+Upon termination of membership, the data will be deleted as soon as it is no longer required for the purposes for which it was collected and there are no statutory retention obligations or legitimate interests, in particular for the establishment, exercise or defence of legal claims, that preclude its deletion.
+
+Where statutory retention periods apply, the data in question will be retained for the duration of those periods and subsequently deleted.
 
 ### 6. Members’ rights
 
@@ -87,28 +94,31 @@ Statutory requirements regarding data storage remain unaffected.
 
 You have the right to lodge a complaint with a data protection supervisory authority.
 
-### 7. Publication of data / photos
+### 7. Publication of data and photographs
 
-As part of the association’s activities, photos and reports on events may be published on the website or in the association’s media.
+As part of the association’s work, reports on events and other association activities, as well as photographs taken during these, may be published in the association’s media, in particular in the VDT magazine and on the VDT website.
 
-This is done on the basis of the association’s legitimate interest in public relations.
-Members may object to such publication at any time.
+Publication takes place, provided the legal requirements are met, in particular on the basis of the VDT’s legitimate interest in providing information about its association work and public relations activities.
+
+When selecting and publishing photographs, the legitimate interests of the persons depicted are taken into account. An objection may be lodged against processing on the basis of Article 6(1)(f) of the GDPR on grounds relating to the specific situation of the data subject.
+
+Where consent is required for a specific publication, this will be obtained separately.
 
 ### 8. Data security
 
-The association takes appropriate technical and organisational measures to protect data from loss, manipulation or unauthorised access.
+The association takes appropriate technical and organisational measures to protect data against loss, manipulation or unauthorised access.
 
-### 9. Note on Voluntary Provision
+### 9. Note on voluntary provision
 
 The provision of personal data is necessary for the establishment and administration of membership. Membership is not possible without this data.
 
 ### 10. Amendments
 
-This privacy policy may be amended as necessary. The current version shall apply at all times.
+This privacy policy may be amended as necessary should legal, organisational or technical changes make this required. The current version, published on the association’s website, shall apply at all times.
 
-### 11. Data Processing by Processors
-See Article 28(3) of the GDPR  
-A data processing agreement in accordance with Article 28(3) of the GDPR has been concluded with both the operator of the cloud-based membership management system, based in Switzerland, and the hosting provider all-inkl.com.
+### 11. Data processing on behalf of the controller
+See Article 28(3) of the GDPR
+A data processing agreement in accordance with Article 28(3) of the GDPR has been concluded with uSystems GmbH, the operator of the cloud-based club management software ‘Webling’, based in Switzerland, and with the hosting provider all-inkl.com – Neue Medien Münnich.
 
 ---
 
